@@ -1,12 +1,29 @@
-public class FirstProgram {
-    public static void main(String[] args) {
-        System.out.println("Course: COS 201 - Computer Programming I");
-        System.out.println("Programme: Computer Science");
+# COS 201 - Computer Programming I
 
-        System.out.println("Reason 1: Programming helps solve computational problems.");
-        System.out.println("Reason 2: Programming supports automation.");
-        System.out.println("Reason 3: Programming enables software development.");
+## Student Information
+- Name: Nnaeme Michael
+- Matriculation Number: 25/17275
+- Programme: Computer Science
+- Course: COS 201
 
-        System.out.println("My goal: I want to develop useful software applications.");
-    }
-}
+## Week 1: Introduction to Programming and Problem-Solving
+Created and executed my first Java programme.
+
+File:
+- week01/FirstProgram.java
+
+## Week 2: Development Environment and First Java Program
+
+### Objective
+To write, compile and execute a simple Java program.
+
+### Tools Used
+- Java
+- Visual Studio Code
+- GitHub
+
+### Files
+- week02/HelloWorld.java
+
+### Learning Outcome
+I practised creating and running a Java program and submitting source code through GitHub.
